@@ -1,2 +1,4 @@
 # TDD_Basics_Python
-A repository to document a small learnign road and writing concepts about TDD methodology
+
+En este repositorio aprenderemos a crear una api con FAST Api, aplicando PyTest para las pruebas unitarias,
+por medio de la metodología *Test Driven Development*
